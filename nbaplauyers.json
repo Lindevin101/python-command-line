@@ -1,4 +1,4 @@
-nbaplayer = [
+nbaplayers = [
   {
     "name": "Kobe Bryant",
     "team": "Lakers" 
@@ -70,10 +70,6 @@ nbaplayer = [
  {
     "name": "Klay Thompson",
     "team": "Warriors"
- },
- {
-    "name": "Rudy Gobert",
-    "team": "Timberwolves"
  },
  {
     "name": "Luka Doncic",
